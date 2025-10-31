@@ -52,4 +52,9 @@ show the dashboard look like:
 
 Adventure works executive Dash
 (https://github.com/niravprajapati2001/Adventure-works/blob/main/Adventure%20Works%20executive%20dash.png)
+
 Region wise distribution
+(https://github.com/niravprajapati2001/Adventure-works/blob/main/Region%20wise%20distribution.png)
+
+Customer details
+()
