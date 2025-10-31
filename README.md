@@ -14,9 +14,9 @@ Tech Stack:
 [Category]  	        [Tools]
 BI Tool	-              Microsoft Power BI,
 Data Source	-          Adventure Works Dataset,
-Data Modeling	-        DAX, Star Schema, Calculated Tables & Measures,
+Data Modeling	-        {DAX, Star Schema, Calculated Tables & Measures},
 Data Transformation	-  Power Query (M Language),
-Visualization -	        Power BI visuals, slicers, drill-through, bookmarks.
+Visualization -	       {Power BI visuals, slicers, drill-through, bookmarks}.
 
 Business Problem:
 
