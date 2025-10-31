@@ -48,6 +48,8 @@ Project based on Microsoft's AdventureWorks dataset.
 Created by Nirav Prajapati — MBA (Marketing) 
 
 screenshots/ demos
+show the dashboard look like:
 
-show the dashboard look like
+Adventure works executive Dash
 (https://github.com/niravprajapati2001/Adventure-works/blob/main/Adventure%20Works%20executive%20dash.png)
+Region wise distribution
