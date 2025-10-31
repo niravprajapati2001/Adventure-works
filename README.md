@@ -57,4 +57,7 @@ Region wise distribution
 (https://github.com/niravprajapati2001/Adventure-works/blob/main/Region%20wise%20distribution.png)
 
 Customer details
+(https://github.com/niravprajapati2001/Adventure-works/blob/main/Customer%20details.png)
+
+Product details
 ()
