@@ -60,4 +60,4 @@ Customer details
 (https://github.com/niravprajapati2001/Adventure-works/blob/main/Customer%20details.png)
 
 Product details
-()
+(https://github.com/niravprajapati2001/Adventure-works/blob/main/Product%20details.png)
